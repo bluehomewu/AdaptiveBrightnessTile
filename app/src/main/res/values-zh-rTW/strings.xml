@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">自動亮度磁貼</string>
+    <string name="cancel">取消</string>
+    <string name="ok">OK</string>
+    <string name="permission_alert_dialog_message">要允許磁貼更改亮度模式，請打開設定並授權修改系統設定權限。</string>
+    <string name="setting_not_found_alert_dialog_message">未找到自動亮度設定； 該設備不支援這種亮度模式。 該應用程式將無法執行：您可以將其解除安裝。</string>
+    <string name="settings">設定</string>
+    <string name="adaptive_brightness">自動亮度</string>
+    <string name="settings_permission_modify_system_settings_title">權限</string>
+    <string name="settings_permission_modify_system_settings_summary_off">修改系統設定權限被拒絕。 磁貼不允許改變亮度模式</string>
+    <string name="settings_permission_modify_system_settings_summary_on">授權修改系統設定權限。 允許磁貼改變亮度模式</string>
+    <string name="settings_github_link">https://github.com/rascarlo/AdaptiveBrightnessTile</string>
+    <string name="key_permission_modify_system_settings">key_permission_modify_system_settings</string>
+    <string name="source_code">源始碼</string>
+</resources>
